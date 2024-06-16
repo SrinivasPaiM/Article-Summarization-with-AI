@@ -1,4 +1,5 @@
 AI Article Summarization Website
+
 This project is a web application that uses an AI-powered API to summarize articles, helping users quickly grasp key points without reading the full text.
 
 Features
